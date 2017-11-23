@@ -1,0 +1,16 @@
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\TestContactList.deps.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\TestContactList.runtimeconfig.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\TestContactList.runtimeconfig.dev.json
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\TestContactList.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\TestContactList.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\ContactList.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\bin\Release\netcoreapp2.0\ContactList.pdb
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\obj\Release\netcoreapp2.0\TestContactList.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\obj\Release\netcoreapp2.0\TestContactList.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\obj\Release\netcoreapp2.0\TestContactList.AssemblyInfoInputs.cache
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\obj\Release\netcoreapp2.0\TestContactList.AssemblyInfo.cs
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\obj\Release\netcoreapp2.0\TestContactList.dll
+C:\Users\Daniel Barth\Documents\HTL-Perg\5AHIF\POSE\C#\Uebungen_meins\ContactList\ContactList\TestContactList\obj\Release\netcoreapp2.0\TestContactList.pdb
